@@ -16,7 +16,7 @@ When you ask a chatbot a question, such as "Hey, what’s on the news today?", t
 The chatbot uses machine learning models to understand the user's question by extracting these components.
 ## Prerequisites
 To implement the chatbot, we will be using Keras, which is a Deep Learning library, NLTK, which is a Natural Language Processing toolkit, and some helpful libraries. Run the below command to make sure all the libraries are installed:
-
+```bash
 pip install tensorflow keras pickle nltk 
 
 ## Running the Chatbot
